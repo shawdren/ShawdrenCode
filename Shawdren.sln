@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{258F6436-ABEB-4836-9DEC-F4B2582DCCFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{2E55AEF4-A123-40B0-BD23-ACD3133A3B4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{258F6436-ABEB-4836-9DEC-F4B2582DCCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{258F6436-ABEB-4836-9DEC-F4B2582DCCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{258F6436-ABEB-4836-9DEC-F4B2582DCCFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E55AEF4-A123-40B0-BD23-ACD3133A3B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E55AEF4-A123-40B0-BD23-ACD3133A3B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E55AEF4-A123-40B0-BD23-ACD3133A3B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E55AEF4-A123-40B0-BD23-ACD3133A3B4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
