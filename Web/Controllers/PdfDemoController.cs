@@ -4,6 +4,9 @@ using Web.Models;
 
 namespace Web.Controllers
 {
+    /// <summary>
+    /// Demo of PDF view in the web page.
+    /// </summary>
     public class PdfDemoController : PdfViewController
     {
         //
